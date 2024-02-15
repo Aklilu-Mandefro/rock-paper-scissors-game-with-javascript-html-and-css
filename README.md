@@ -1,5 +1,5 @@
 # Rock Paper Scissors Game With JavaScript, HTML, and CSS 
-This is a beginner-friendly rock paper scissor game app.
+This is a beginner-friendly rock paper scissors game app.
 
 ## How to start
 Running this app is as easy as pie. Just open `index.html` file in your browser.
