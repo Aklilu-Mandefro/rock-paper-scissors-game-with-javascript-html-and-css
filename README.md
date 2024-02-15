@@ -10,8 +10,13 @@ Running this app is as easy as pie. Just open `index.html` file in your browser.
   margin-left: auto;
   margin-right: auto;">
 </img>
+<h1 align= "center">
+  
+   [live Demo of Rock Paper Scissors Game](https://rock-paper-scissors-game-by-aklilu.netlify.app/)
 
-   [live Demo of Rock Paper Scissors Game](https://github.com/Aklilu-Mandefro/rock-paper-scissors-game-with-javascript-html-and-css)
+  
+</h1>
+
 
 ## Help
 
